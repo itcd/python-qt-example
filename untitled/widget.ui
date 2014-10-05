@@ -50,21 +50,28 @@
      <item>
       <widget class="QPushButton" name="maxButton">
        <property name="text">
-        <string>maxButton</string>
+        <string>showMaximized</string>
        </property>
       </widget>
      </item>
      <item>
       <widget class="QPushButton" name="normalButton">
        <property name="text">
-        <string>normalButton</string>
+        <string>showNormal</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QPushButton" name="aboutButton">
+       <property name="text">
+        <string>about...</string>
        </property>
       </widget>
      </item>
      <item>
       <widget class="QPushButton" name="closeButton">
        <property name="text">
-        <string>closeButton</string>
+        <string>close</string>
        </property>
       </widget>
      </item>
