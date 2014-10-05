@@ -7,7 +7,7 @@ In your Python command prompt or terminal, run "python MyWidget.py" to start the
 ### Screenshots ###
 
 * ![python-qt-example.png](https://bitbucket.org/repo/nbez5M/images/3191483234-python-qt-example.png)
-# A screenshot of the program #
+### A screenshot of the program ###
 
 * ![qt-creator.png](https://bitbucket.org/repo/nbez5M/images/2689078723-qt-creator.png)
-# The UI designed in Qt Creator #
+### The UI designed in Qt Creator ###
